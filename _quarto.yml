@@ -6,7 +6,7 @@ website:
   title: "Trial"
   navbar:
     left:
-      - href: index.qmd
+      - href: index_new.qmd
         text: Home
   sidebar:
     style: "floating"
@@ -14,7 +14,7 @@ website:
     contents:
       - section: "Table of content"
         contents:
-          - markdown.qmd
+          - markdown_new.qmd
           
   page-footer:
       left:

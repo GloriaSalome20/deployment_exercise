@@ -1,0 +1,6 @@
+---
+title: "Principles-and-Practice-of-Data-Visualization-in-R"
+---
+
+{{< include training_information.qmd >}}
+
