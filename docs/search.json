@@ -1,0 +1,94 @@
+[
+  {
+    "objectID": "markdown_new.html",
+    "href": "markdown_new.html",
+    "title": "markdown",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see.",
+    "crumbs": [
+      "Home",
+      "Table of content",
+      "markdown"
+    ]
+  },
+  {
+    "objectID": "markdown_new.html#quarto",
+    "href": "markdown_new.html#quarto",
+    "title": "markdown",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see.",
+    "crumbs": [
+      "Home",
+      "Table of content",
+      "markdown"
+    ]
+  },
+  {
+    "objectID": "markdown_new.html#running-code",
+    "href": "markdown_new.html#running-code",
+    "title": "markdown",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4",
+    "crumbs": [
+      "Home",
+      "Table of content",
+      "markdown"
+    ]
+  },
+  {
+    "objectID": "index_new.html",
+    "href": "index_new.html",
+    "title": "Training Information",
+    "section": "",
+    "text": "The goal of this workshop is to equip participants with the ability to recognize and produce data visualizations in accordance with the best practices of the field. Looking forward to meeting you all!"
+  },
+  {
+    "objectID": "index_new.html#venue",
+    "href": "index_new.html#venue",
+    "title": "Training Information",
+    "section": "Venue",
+    "text": "Venue\nThe workshop takes place at the Kigali Marriott Hotel in Kigali, Rwanda on April 19th 2024. We will begin at 9:30am and finish at 1pm (see schedule below). If you have had any trouble with software installation, please arrive 15 minutes prior to the beginning of the session so we can assist you."
+  },
+  {
+    "objectID": "index_new.html#before-the-workshop",
+    "href": "index_new.html#before-the-workshop",
+    "title": "Training Information",
+    "section": "Before the Workshop",
+    "text": "Before the Workshop\nPlease install R, RStudio, and the ggplot2 library following these installation instructions. If you have any trouble installing we will have a station on 18th April where you can come for assistance. Installation might take 15 minutes or more even on a good internet connection, so please install ahead of time!\nPlease also download the data we will be using for the workshop ahead of time. You should also receive this data as an attachment in your email. If you are having trouble downloading the data, please put a red sticky note on your computer and we will assist you.\n\n\n\n\n\n\nNote\n\n\n\n\nAll software used in this workshop is free.\nIf you have any difficulties with the installation, support can be provided on the first day of the AMMnet meeting, before the session, during breaks."
+  },
+  {
+    "objectID": "index_new.html#schedule",
+    "href": "index_new.html#schedule",
+    "title": "Training Information",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n\n9:15-9:30\nWelcome\nSupport for software installation\n\n\n\n9:30 - 9:50\nIntroduction to Data Visualization\n\n\n\n9:50-10:05\nGetting Familiar with RStudio, Reading Data\n\n\n\n10:05-11:00\nIntroduction to ggplot2 and geoms\n\n\n\n11-11:30\nCoffee Break\n\n\n\n11:30-12:15\nMapping aesthetics: the aes() function\n\n\n\n12:15-12:45\nCustomizing Plots for Presentation & Publication\n\n\n\n12:45-13:00\nConclusion and Survey"
+  },
+  {
+    "objectID": "index_new.html#after-the-workshop",
+    "href": "index_new.html#after-the-workshop",
+    "title": "Training Information",
+    "section": "After the Workshop",
+    "text": "After the Workshop\nFill out the online post-workshop questionnaire"
+  },
+  {
+    "objectID": "markdown.html",
+    "href": "markdown.html",
+    "title": "learning",
+    "section": "",
+    "text": "This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "markdown.html#r-markdown",
+    "href": "markdown.html#r-markdown",
+    "title": "learning",
+    "section": "",
+    "text": "This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "markdown.html#including-plots",
+    "href": "markdown.html#including-plots",
+    "title": "learning",
+    "section": "Including Plots",
+    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+  }
+]

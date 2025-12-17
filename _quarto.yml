@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Trial"
+  title: "Trial_title_here"
   navbar:
     left:
       - href: index_new.qmd
@@ -12,7 +12,7 @@ website:
     style: "floating"
     search: true
     contents:
-      - section: "Table of content"
+      - section: "teaching sections"
         contents:
           - markdown_new.qmd
           
