@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Trial"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "Table of content"
+        contents:
+          - markdown.qmd
+          
+  page-footer:
+      left:
+        "This page was built by [Quarto](https://quarto.org/).
+        Copyright 2024, Gloria Shirima"
+      right:
+        - icon: github
+
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+    toc: true
+
+editor: visual
+
